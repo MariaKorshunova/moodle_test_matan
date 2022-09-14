@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Тема 1.1. Множества и операции над ними</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Тема 1.1. Множества и операции над ними/Геометрическое представление декартового произведения</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 183973  -->
+  <question type="matching">
+    <name>
+      <text>Геометрическое представление декартового произведения</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Проиллюстрируйте геометрически декартового произведение и найдите соответствие:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[двух отрезков<br>]]></text>
+      <answer>
+        <text>прямоугольник</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">двух прямых</p>]]></text>
+      <answer>
+        <text>плоскость</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">прямой и окружности</p>]]></text>
+      <answer>
+        <text>цилиндрическая поверхность</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">прямой и круга</p>]]></text>
+      <answer>
+        <text>цилиндр</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">двух окружностей</p>]]></text>
+      <answer>
+        <text>тор</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">окружности и круга</p>]]></text>
+      <answer>
+        <text>полноторие</text>
+      </answer>
+    </subquestion>
+  </question>
+
+</quiz>
