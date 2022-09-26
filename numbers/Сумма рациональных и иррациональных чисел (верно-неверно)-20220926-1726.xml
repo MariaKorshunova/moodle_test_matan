@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184474  -->
+  <question type="cloze">
+    <name>
+      <text>Сумма рациональных и иррациональных чисел (верно-неверно)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">Может ли:</span></p><p dir="ltr" style="text-align: left;"></p><ul><li><span style="font-size: 0.9375rem;">сумма двух рациональных чисел быть
+иррациональным числом?</span><span style="font-size: 0.9375rem;">&nbsp;<span><span><span><span>{1:MULTICHOICE:%0%да~%100%нет}</span></span></span></span></span></li><li><span style="font-size: 0.9375rem;">сумма рационального и иррационального
+– рациональным?&nbsp;</span><span style="font-size: 0.9375rem;">{1:MULTICHOICE:%0%да~%100%нет}<br></span></li><li>сумма двух любых иррациональных чисел
+– рациональным числом?&nbsp;&nbsp;{1:MULTICHOICE:%100%да~%0%нет}</li><li><span style="font-size: 0.9375rem;">сумма двух положительных
+иррациональных чисел – рациональным числом?&nbsp;{1:MULTICHOICE:%100%да~%0%нет}</span></li><li><span style="font-size: 0.9375rem;">произведение двух иррациональных
+чисел – рациональным числом?&nbsp;{1:MULTICHOICE:%100%да~%0%нет}</span></li></ul><p></p><p dir="ltr" style="text-align: left;"></p><p style="font-size: 0.9375rem;"></p><br><p></p><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

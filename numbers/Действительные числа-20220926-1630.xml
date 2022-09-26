@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 181218  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 0,2(4)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( 0,2(4) \cdot \frac{5}{5-\frac{7}{5-\frac{7}{5}}} \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=2}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=5}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 181233  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 1,(25)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( 1,(25) \cdot \frac{9}{6-\frac{5}{4-\frac{3}{2}}} \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=31}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=11}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 181230  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 1,0(3)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \frac{1}{2-\frac{3}{4-\frac{5}{6}}}-1,0(3) \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=-1}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=12}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 181221  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 2,1(6)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \frac{4}{12-\frac{7}{3-\frac{7}{3}}}-2,1(6) \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=1}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=2}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 181227  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 4,(3)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( 4,(3) \cdot \frac{7}{7-\frac{5}{7-\frac{5}{7}}} \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=44}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=9}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 181224  -->
+  <question type="cloze">
+    <name>
+      <text>Вычислить 8,(6)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Выполните арифметические действия, представив ответ в виде несократимой дроби&nbsp;\( \frac{p}{q} \)&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( 8,(6) \cdot \frac{2}{2-\frac{6}{7-\frac{2}{7}}} \)<br></p><p dir="ltr" style="text-align: left;">Ответ:</p><p dir="ltr" style="text-align: left;">\( p= \) {1:SHORTANSWER:=47}<br></p><p dir="ltr" style="text-align: left;">\( q= \) {1:SHORTANSWER:=3}<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

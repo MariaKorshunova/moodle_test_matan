@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184484  -->
+  <question type="cloze">
+    <name>
+      <text>Доказательство иррациональности</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Выполните следующие доказательства:<br><br><strong>Докажите, что число&nbsp;\( \sqrt{3} \)&nbsp; является иррациональным.&nbsp;</strong>{1:MULTICHOICE:%100%могу доказать~%0%пока не получается}<br><br><strong>Докажите, что квадратный корень из любого простого числа&nbsp; является иррациональным.&nbsp;</strong>{1:MULTICHOICE:%100%могу доказать~%0%пока не получается}<br><br><strong>Докажите, что число&nbsp;\( \sqrt{6} \)&nbsp; является иррациональным.&nbsp;</strong>{1:MULTICHOICE:%100%могу доказать~%0%пока не получается}<br><br><strong>Докажите, что число&nbsp;\( \sqrt{2} +&nbsp;<strong>\sqrt{3}</strong> \)&nbsp; является иррациональным.&nbsp;</strong>{1:MULTICHOICE:%100%могу доказать~%0%пока не получается}<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>
