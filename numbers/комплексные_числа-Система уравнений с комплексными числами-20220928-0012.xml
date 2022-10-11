@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184501  -->
+  <question type="cloze">
+    <name>
+      <text>(2+i)x+(2-i)y=6, \\ (3+2i)x-(3-2i)y=8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Решите систему уравнений:</p><p dir="ltr" style="text-align: left;">\( \begin{equation*} \begin{cases} (2+i)x+(2-i)y=6, \\ (3+2i)x+(3-2i)y=8. \end{cases} \end{equation*} \)<br></p><p dir="ltr" style="text-align: left;"><span>\( Re \: x= \)&nbsp;{1:NUMERICAL:=2}&nbsp;</span><br></p><p dir="ltr" style="text-align: left;"><span>\( Im \: x= \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></span></p><p dir="ltr" style="text-align: left;"><span>\( Re \: y= \)&nbsp;{1:NUMERICAL:=2}</span></p><p dir="ltr" style="text-align: left;"><span>\( Im \: y= \)&nbsp;{1:NUMERICAL:=-1}&nbsp;<br></span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184496  -->
+  <question type="cloze">
+    <name>
+      <text>(3-i)x+(4+2i)y=2+6i, (4+2i)x-(2+3i)y=5+4i</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Решите систему уравнений:</p><p dir="ltr" style="text-align: left;">\( \begin{equation*}
+ \begin{cases}
+   (3-i)x+(4+2i)y=2+6i, 
+   \\
+   (4+2i)x-(2+3i)y=5+4i.
+ \end{cases}
+\end{equation*} \)<br></p><p dir="ltr" style="text-align: left;"><span>\( Re \: x= \)&nbsp;{1:NUMERICAL:=1}&nbsp;</span><br></p><p dir="ltr" style="text-align: left;"><span>\( Im \: x= \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></span></p><p dir="ltr" style="text-align: left;"><span>\( Re \: y= \)&nbsp;{1:NUMERICAL:=0}</span></p><p dir="ltr" style="text-align: left;"><span>\( Im \: y= \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184506  -->
+  <question type="cloze">
+    <name>
+      <text>x+yi-2z=10, \\ x-y+2iz=20, \\ ix+3iy-(1+i)z=30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Решите систему уравнений:</p><p dir="ltr" style="text-align: left;">\( \begin{equation*} 
+\begin{cases} 
+x+yi-2z=10, 
+\\ x-y+2iz=20,
+\\ ix+3iy-(1+i)z=30
+ \end{cases} 
+\end{equation*} \)<br></p><p dir="ltr" style="text-align: left;"><span>\( Re \: x= \)&nbsp;{1:NUMERICAL:=3}&nbsp;</span><br></p><p dir="ltr" style="text-align: left;"><span>\( Im \: x= \)&nbsp;{1:NUMERICAL:=-11}&nbsp;<br></span></p><p dir="ltr" style="text-align: left;"><span>\( Re \: y= \)&nbsp;{1:NUMERICAL:=-3}</span></p><p dir="ltr" style="text-align: left;"><span>\( Im \: y= \)&nbsp;{1:NUMERICAL:=-9}&nbsp;<br></span></p><p dir="ltr" style="text-align: left;"><span></span></p><p dir="ltr">\( Re \: z= \)&nbsp;{1:NUMERICAL:=1}</p><p dir="ltr">\( Im \: z= \)&nbsp;{1:NUMERICAL:=-7}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

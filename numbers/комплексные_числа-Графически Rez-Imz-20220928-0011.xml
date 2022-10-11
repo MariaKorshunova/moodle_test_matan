@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184492  -->
+  <question type="matching">
+    <name>
+      <text>Графически Rez-Imz</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Какое множество точек плоскости задаются условиями, если<br><br>\( z \) - комплексное число<br>\( a \)&nbsp;- действительное числа<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( Re \: z= a  \)<br></p>]]></text>
+      <answer>
+        <text>прямая x=a</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( Im \: z= a \)<br></p>]]></text>
+      <answer>
+        <text>прямая y=a</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( Re\:z&gt;a \)<br></p>]]></text>
+      <answer>
+        <text>Полуплоскость правее прямой x=a, не включая саму прямую</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( Re\:z \geq a \)<br></p>]]></text>
+      <answer>
+        <text>Полуплоскость правее прямой x=a, включая саму прямую</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Полуплоскость левее прямой x=a, включая саму прямую</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Полуплоскость левее прямой x=a, не включая саму прямую</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\(  Im\:z \lt a  \)<br></p>]]></text>
+      <answer>
+        <text>Полуплоскость ниже прямой y=a, не включая саму прямую</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( Im\:z&gt;a \)<br></p>]]></text>
+      <answer>
+        <text>Полуплоскость выше прямой y=a, не включая саму прямую</text>
+      </answer>
+    </subquestion>
+  </question>
+
+</quiz>

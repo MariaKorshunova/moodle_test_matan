@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184861  -->
+  <question type="cloze">
+    <name>
+      <text>Последовательность x_n=p^n</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Пусть задана последовательность&nbsp;\( x_n=p^n \), где&nbsp;\( p \in \mathbb{R} \) .</p><p dir="ltr" style="text-align: left;">Последовательность будет иметь предел при&nbsp;\( p \in \)&nbsp;<span style="font-size: 0.9375rem;">{1:MULTICHOICE:%100%(~%0%[~%0%{} {1:NUMERICAL:=-1}&nbsp;\( ; \)&nbsp;{1:NUMERICAL:=1}&nbsp;&nbsp;<span>{1:MULTICHOICE:%0%)~%100%]~%0%}}</span></span></p><p dir="ltr" style="text-align: left;">Последовательность не имеет конечного предела и стремится к&nbsp;\( + \infty  \) при&nbsp;&nbsp;\( p \)&nbsp;&nbsp;{1:MULTICHOICE:%0%=~%100%&gt;~%0%&lt;}&nbsp;{1:NUMERICAL:=1}&nbsp;</p><p dir="ltr" style="text-align: left;">Последовательность не имеет конечного предела и стремится к&nbsp;\( \infty \) , но не к&nbsp;\( + \infty \)&nbsp; при&nbsp;&nbsp;\( p \)&nbsp;&nbsp;{1:MULTICHOICE:%0%=~%0%&gt;~%100%&lt;}&nbsp;{1:NUMERICAL:=-1}&nbsp;&nbsp;</p><p dir="ltr" style="text-align: left;">Последовательность не имеет конечного предела и при этом не стремится к&nbsp;&nbsp;\( \infty \)&nbsp;&nbsp;&nbsp;при&nbsp;&nbsp;\( p \)&nbsp;&nbsp;{1:MULTICHOICE:%100%=~%0%&gt;~%0%&lt;}&nbsp;{1:NUMERICAL:=-1}&nbsp;&nbsp;<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184872  -->
+  <question type="cloze">
+    <name>
+      <text>Пределы на  бесконечность и 0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите пределы следующих последовательностей, если они существуют. Если предел равен бесконечности&nbsp;\( (+ \infty, - \infty, \infty )   \) , докажите это.</p><p dir="ltr" style="text-align: left;">Если предел существует, то докажите это утверждение, пользуясь определением.</p><p dir="ltr" style="text-align: left;">\( a_n=\frac{\sqrt{n^3}}{n+1}= \)&nbsp;&nbsp;{1:MULTICHOICE:%0%inf~%100%+inf~%0%-inf~%0%0}<br></p><p dir="ltr" style="text-align: left;">\( a_n=\frac{\sqrt[3]{n^2}}{n+1} \)&nbsp;&nbsp;{1:MULTICHOICE:%0%inf~%0%+inf~%0%-inf~%100%0}<br></p><p dir="ltr" style="text-align: left;">\( a_n=\frac{\sqrt[3]{n^2}}{n^2+n} \)&nbsp;&nbsp;{1:MULTICHOICE:%0%inf~%0%+inf~%0%-inf~%100%0}<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

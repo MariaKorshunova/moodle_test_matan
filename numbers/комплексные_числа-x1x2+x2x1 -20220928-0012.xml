@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184495  -->
+  <question type="numerical">
+    <name>
+      <text>x^2-8x+17=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p>Пусть&nbsp;\( x_1 \)&nbsp;и&nbsp;\( x_2 \)&nbsp;- корни уравнения&nbsp;\( x^2-8x+17=0 \). Вычислите&nbsp;\( \frac{x_1}{x_2}+\frac{x_2}{x_1} \).</p><p>Ответ впишите в виде десятичной дроби с округлением до второго знака после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1.76</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>
