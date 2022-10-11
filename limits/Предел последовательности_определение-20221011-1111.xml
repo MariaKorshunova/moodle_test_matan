@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184854  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=1+\frac{(-1)^n}{{a}^n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=1+\frac{(-1)^n}{{a}^n} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>1+{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184859  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{1}{\sqrt{{a}n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{1}{\sqrt{{a}n}} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184853  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{1}{{a}^n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{1}{{a}^n} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184855  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{2^n}{{b}^n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{2^n}{{b}^n} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{b}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>b</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>3</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>7</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184852  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{n+{a}}{n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{n+{a}}{n} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>1+{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184857  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{n^2}{2n^2+n-{a}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{n^2}{2n^2+n-{a}} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>0.5+{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184858  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{{a}n^2}{n^2+n+1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{{a}n^2}{n^2+n+1} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 184856  -->
+  <question type="calculated">
+    <name>
+      <text>x_n=\frac{{a}}{n^2+{a}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Интуитивно найдите предел последовательности и докажите, что это действительно предел данной последовательности, пользуясь определением.<br><br>\( x_n=\frac{{a}}{n^2+{a}} \)<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}*0</text>
+    <tolerance>1.0E-5</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>5</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+</quiz>

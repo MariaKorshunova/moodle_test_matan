@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184895  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} 5^{\frac{1}{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} 5^{\frac{1}{n}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184894  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \cos{\frac{1}{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \cos{\frac{1}{n}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184892  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{2+3n}{n^2+3}\sin{n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{2+3n}{n^2+3}\sin{n} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184898  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{2n^2+2^{-n}}{n^2+5^{-n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{2n^2+2^{-n}}{n^2+5^{-n}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184897  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{2^n+3^{-n}}{3^n-2^{-n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{2^n+3^{-n}}{3^n-2^{-n}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184896  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{e^n+e^{-n}}{e^n-e^{-n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{e^n+e^{-n}}{e^n-e^{-n}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184899  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{\sin{(2^{-n}+3^{-n})}}{\cos{(4^{-n}+5^{-n})}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{\sin{(2^{-n}+3^{-n})}}{\cos{(4^{-n}+5^{-n})}} \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184888  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}(\frac{2}{n+2}-\frac{1}{n^2-4})</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty}(\frac{2}{n+2}-\frac{1}{n^2-4}) \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184890  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}(\frac{\sqrt{n^2-3}-\sqrt{n^2-n}}{\sqrt{n^2-5}-\sqrt{n^2-n}})</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty}(\frac{\sqrt{n^2-3}-\sqrt{n^2+n}}{\sqrt{n^2-5}-\sqrt{n^2-n}})  \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184889  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}(\sqrt{n^2+n}-\sqrt{n^2-1})</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty}(\sqrt{n^2+n}-\sqrt{n^2-1}) \)<br></p><p dir="ltr"></p><ul><li><span style="font-size: 0.9375rem;">Если результатом вычисления предела является бесконечность, то введите в поле ответа </span><strong style="font-size: 0.9375rem;">inf</strong><span style="font-size: 0.9375rem;"> .</span><br></li><li><span style="font-size: 0.9375rem;">Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"</span><strong style="font-size: 0.9375rem;">не существует</strong><span style="font-size: 0.9375rem;">"</span><br></li><li><span style="font-size: 0.9375rem;">Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</span><br></li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 184893  -->
+  <question type="shortanswer">
+    <name>
+      <text>\lim\limits_{n \to \infty} \frac{2n-2}{3n+1}\cos{n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty} \frac{2n-2}{3n+1}\cos{n}  \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>не существует</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text><![CDATA["не существует"]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 184891  -->
+  <question type="shortanswer">
+    <name>
+      <text>\lim\limits_{n \to \infty}\sin{n}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty}\sin{n} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>не существует</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text><![CDATA["не существует"]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
