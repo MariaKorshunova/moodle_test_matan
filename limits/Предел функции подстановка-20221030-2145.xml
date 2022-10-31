@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 187722  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2+2x-24}{x^2+7x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2+2x-24}{x^2+7x+6}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}+2*{a}-24) / ({a}*{a}+7*{a}+6)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187720  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2+2x-24}{x^2+8x+12}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2+2x-24}{x^2+8x+12}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}+2*{a}-24) / ({a}*{a}+8*{a}+12)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187712  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2+x-20}{x^2+6x+5}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2+x-20}{x^2+6x+5}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}+{a}-20) / ({a}*{a}+6*{a}+5)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187714  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2+x-20}{x^2+7x+10}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2+x-20}{x^2+7x+10}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}+{a}-20) / ({a}*{a}+7*{a}+10)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187706  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-16}{x^2+5x+4}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-16}{x^2+5x+4}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-16) / ({a}*{a}+5*{a}+4)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187704  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-16}{x^2+6x+8}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-16}{x^2+6x+8}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-16) / ({a}*{a}+6*{a}+8)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187700  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+5x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+5x+6}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-2*{a}-8) / ({a}*{a}+5*{a}+6)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187702  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+6x+8}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+6x+8}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-2*{a}-8) / ({a}*{a}+6*{a}+8)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187716  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+7x+10}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+7x+10}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-2*{a}-8) / ({a}*{a}+7*{a}+10)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187718  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+8x+12}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-2x-8}{x^2+8x+12}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-2*{a}-8) / ({a}*{a}+8*{a}+12)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187667  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-3x+2}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-3x+2}{x^2+x-2}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-3*{a}+2) / ({a}*{a}+{a}-2)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187692  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+3x+2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+3x+2}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-3*{a}-4) / ({a}*{a}+3*{a}+2)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187694  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+4x+3}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+4x+3}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-3*{a}-4) / ({a}*{a}+4*{a}+3)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187708  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+5x+4}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+5x+4}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-3*{a}-4) / ({a}*{a}+5*{a}+4)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187710  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+6x+5}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-3x-4}{x^2+6x+5}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-3*{a}-4) / ({a}*{a}+6*{a}+5)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187668  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-4}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-4}{x^2+x-2}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-4) / ({a}*{a}+{a}-2)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187696  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-x-12}{x^2+4x+3}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-x-12}{x^2+4x+3}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-{a}-12) / ({a}*{a}+4*{a}+3)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187698  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-x-12}{x^2+5x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-x-12}{x^2+5x+6}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-{a}-12) / ({a}*{a}+5*{a}+6)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187673  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-x-6}{x^2+3x+2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-x-6}{x^2+3x+2}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-{a}-6) / ({a}*{a}+3*{a}+2)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187671  -->
+  <question type="calculated">
+    <name>
+      <text>\lim\limits_{x \to {a}}{\frac{x^2-x-6}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Найдите предел функции:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to {a}}{\frac{x^2-x-6}{x^2+x-2}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>({a}*{a}-{a}-6) / ({a}*{a}+{a}-2)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>9</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>7</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>6</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+</quiz>

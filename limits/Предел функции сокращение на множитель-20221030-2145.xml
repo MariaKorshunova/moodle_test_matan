@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 187693  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -1}{\frac{x^2-3x-3}{x^2+3x+2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+3x+2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187695  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+4x+3}} (копия)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+4x+3}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-2.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187709  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+5x+4}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+5x+4}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-1.67</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187711  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+6x+5}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -1}{\frac{x^2-3x-4}{x^2+6x+5}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-1.25</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187701  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+5x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+5x+6}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-6</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187703  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+6x+8}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+6x+8}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187717  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+7x+10}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+7x+10}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187719  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+8x+12}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-2x-8}{x^2+8x+12}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-1.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187670  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-4}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-4}{x^2+x-2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1.33</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187674  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-x-6}{x^2+3x+2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-x-6}{x^2+3x+2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187672  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -2}{\frac{x^2-x-6}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -2}{\frac{x^2-x-6}{x^2+x-2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1.67</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187697  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -3}{\frac{x^2-x-12}{x^2+4x+3}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -3}{\frac{x^2-x-12}{x^2+4x+3}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187699  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -3}{\frac{x^2-x-12}{x^2+5x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -3}{\frac{x^2-x-12}{x^2+5x+6}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187707  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -4}{\frac{x^2-16}{x^2+5x+4}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -4}{\frac{x^2-16}{x^2+5x+4}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2.67</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187705  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -4}{\frac{x^2-16}{x^2+6x+8}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -4}{\frac{x^2-16}{x^2+6x+8}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187713  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -5}{\frac{x^2+x-20}{x^2+6x+5}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -5}{\frac{x^2+x-20}{x^2+6x+5}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2.25</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187715  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -5}{\frac{x^2+x-20}{x^2+7x+10}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -5}{\frac{x^2+x-20}{x^2+7x+10}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187723  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -6}{\frac{x^2+2x-24}{x^2+7x+6}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -6}{\frac{x^2+2x-24}{x^2+7x+6}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187721  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to -6}{\frac{x^2+2x-24}{x^2+8x+12}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to -6}{\frac{x^2+2x-24}{x^2+8x+12}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187669  -->
+  <question type="numerical">
+    <name>
+      <text>Сокращение на множитель: \lim\limits_{x \to 1}{\frac{x^2-3x+2}{x^2+x-2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите предел функции:</p><p dir="ltr">\( \lim\limits_{x \to 1}{\frac{x^2-3x+2}{x^2+x-2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.</li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-0.33</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>

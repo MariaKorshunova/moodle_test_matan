@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 187651  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}(\sqrt{n^2+n}-\sqrt{n^2-1})</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p dir="ltr">Найдите предел последовательности</p><p dir="ltr">\( \lim\limits_{n \to \infty}(\sqrt{n^2+n}-\sqrt{n^2-1}) \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 14295  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\frac{\sqrt{1+n+n^2}-1}{n})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Найдите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\frac{\sqrt{1+n+n^2}-1}{n})}  \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187666  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\frac{\sqrt{4n+1}-\sqrt{n}}{\sqrt{n}})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Найдите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\frac{\sqrt{4n+1}-\sqrt{n}}{\sqrt{n}})}  \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 14529  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\sqrt{n+1}-\sqrt{n-3})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Вычислите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\sqrt{n+1}-\sqrt{n-3})} \)<br></p><p></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 14294  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\sqrt{n+1}-\sqrt{n})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Найдите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\sqrt{n+1}-\sqrt{n})} \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 14293  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\sqrt{n^2+3n-1}-\sqrt{n^2-n})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Найдите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\sqrt{n^2+3n-1}-\sqrt{n^2-n})} \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187649  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\sqrt{n^2+6n}-n)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Вычислите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\sqrt{n^2+6n}-n)} \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 14528  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{(\sqrt{n^2+n}-\sqrt{n^2-3n})}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Вычислите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{(\sqrt{n^2+n}-\sqrt{n^2-3n})} \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187650  -->
+  <question type="numerical">
+    <name>
+      <text>\lim\limits_{n \to \infty}{2n(\sqrt{n^2+1}-n)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Вычислите предел последовательности</p><p>\( \lim\limits_{n \to \infty}{2n(\sqrt{n^2+1}-n)} \)<br></p><p></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><p></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>

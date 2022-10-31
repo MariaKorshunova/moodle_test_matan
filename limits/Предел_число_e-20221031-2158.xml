@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 187731  -->
+  <question type="calculated">
+    <name>
+      <text>1_\lim\limits_{n \to \infty}{\left( 1+\frac{1}{n} \right)^{n + {m}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( 1+\frac{1}{n} \right)^{n + {m}}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>2.72+{m}*0</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187732  -->
+  <question type="calculated">
+    <name>
+      <text>2_\lim\limits_{n \to \infty}{\left( \frac{n+1}{{m}n-10} \right)^{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( \frac{n+1}{{m}n-10} \right)^{n}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{m}*0</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187734  -->
+  <question type="calculated">
+    <name>
+      <text>4_\lim\limits_{n \to \infty}{\left( 1+\frac{1}{2n-1} \right)^{2n-{m}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( 1+\frac{1}{2n-1} \right)^{2n-{m}}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>2.72+{m}*0</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187735  -->
+  <question type="calculated">
+    <name>
+      <text>5_\lim\limits_{n \to \infty}{\left( 1-\frac{1}{n} \right)^{{m}n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( 1-\frac{1}{n} \right)^{{m}n}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>1 /(pow(exp(1),{m}))</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187737  -->
+  <question type="calculated">
+    <name>
+      <text>7_\lim\limits_{n \to \infty}{\left( 1+\frac{{m}}{n} \right)^{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( 1+\frac{{m}}{n} \right)^{n}}  \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>(pow(exp(1),{m}))</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187738  -->
+  <question type="calculated">
+    <name>
+      <text>8_\lim\limits_{n \to \infty}{\left( 1-\frac{{m}}{n} \right)^{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел последовательности:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{n \to \infty}{\left( 1-\frac{{m}}{n} \right)^{n}} \)<br></p><p dir="ltr" style="text-align: left;"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>1 /(pow(exp(1),{m}))</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>m</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>10</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 187740  -->
+  <question type="numerical">
+    <name>
+      <text>10_\lim\limits_{n \to \infty}{\left( \frac{3n+1}{3n+2} \right)^{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел последовательности:</p><p dir="ltr">\(  \lim\limits_{n \to \infty}{\left( \frac{3n+1}{3n+2} \right)^{n}}  \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1.3956</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187741  -->
+  <question type="numerical">
+    <name>
+      <text>11_\lim\limits_{n \to \infty}{\left( \frac{3n-5}{3n+2} \right)^{n+2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел последовательности:</p><p dir="ltr">\( \lim\limits_{n \to \infty}{\left( \frac{3n-5}{3n+2} \right)^{n+2}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>10.312</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187736  -->
+  <question type="numerical">
+    <name>
+      <text>6_\lim\limits_{n \to \infty}{\left( \frac{n}{n+1} \right)^{n}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел последовательности:</p><p dir="ltr">\(  \lim\limits_{n \to \infty}{\left( \frac{n}{n+1} \right)^{n}}  \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.37</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187739  -->
+  <question type="numerical">
+    <name>
+      <text>9_\lim\limits_{n \to \infty}{\left( \frac{2n-1}{2n+5} \right)^{n+1}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел последовательности:</p><p dir="ltr">\(  \lim\limits_{n \to \infty}{\left( \frac{2n-1}{2n+5} \right)^{n+1}}  \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.0498</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 187733  -->
+  <question type="shortanswer">
+    <name>
+      <text>3_\( \lim\limits_{n \to \infty}{\left( \frac{3n+2}{2n-1} \right)^{n}} \)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">\( \lim\limits_{n \to \infty}{\left( \frac{3n+2}{2n-1} \right)^{n}} \)<br></p><p dir="ltr"></p><ul><li>Если результатом вычисления предела является бесконечность, то введите в поле ответа&nbsp;<strong>inf</strong>&nbsp;.<br></li><li>Если последовательность не имеет конечного предела и при этом не стремится к бесконечности, то введите в поле ответа &nbsp;"<strong>не существует</strong>"<br></li><li>Числовое выражение необходимо вписать в виде десятичной дроби, при необходимости округляя ответ до двух знаков после запятой.</li></ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>inf</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>+inf</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
