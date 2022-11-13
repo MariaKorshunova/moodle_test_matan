@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 183988  -->
+  <question type="cloze">
+    <name>
+      <text>-2x^2+2x+12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-2x^2+2x+12 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=3}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=12}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=12.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184006  -->
+  <question type="cloze">
+    <name>
+      <text>-2x^2-2x+12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-2x^2-2x+12 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-3}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=12}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=12.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184078  -->
+  <question type="cloze">
+    <name>
+      <text>-2x^2-2x+4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-2x^2-2x+4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=4.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184042  -->
+  <question type="cloze">
+    <name>
+      <text>-2x^2-4x+6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-2x^2-4x+6 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-3}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=6}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=8}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184024  -->
+  <question type="cloze">
+    <name>
+      <text>-3x^2+6x+9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-3x^2+6x+9 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=3}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=9}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=12}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184060  -->
+  <question type="cloze">
+    <name>
+      <text>-4x^2+4x+8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-4x^2+4x+8 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=8}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=9}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184132  -->
+  <question type="cloze">
+    <name>
+      <text>-4x^2+6x+4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-4x^2+6x+4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.75}&nbsp;\( ; \) {1:NUMERICAL:=6.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184114  -->
+  <question type="cloze">
+    <name>
+      <text>-4x^2-2x+2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-4x^2-2x+2 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=2}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.25}&nbsp;\( ; \) {1:NUMERICAL:=2.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184150  -->
+  <question type="cloze">
+    <name>
+      <text>-4x^2-6x+4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-4x^2-6x+4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.75}&nbsp;\( ; \) {1:NUMERICAL:=6.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184096  -->
+  <question type="cloze">
+    <name>
+      <text>-8x^2+4x+4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-8x^2+4x+4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.25}&nbsp;\( ; \) {1:NUMERICAL:=4.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 183997  -->
+  <question type="cloze">
+    <name>
+      <text>2x^2+2x-12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2x^2+2x-12 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-3}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-12}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=-12.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184069  -->
+  <question type="cloze">
+    <name>
+      <text>2x^2+2x-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2x^2+2x-4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=-4.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184033  -->
+  <question type="cloze">
+    <name>
+      <text>2x^2+4x-6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2x^2+4x-6 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-3}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-6}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=-8}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 183979  -->
+  <question type="cloze">
+    <name>
+      <text>2x^2-2x-12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2x^2-2x-12 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=3}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-12}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=-12.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184015  -->
+  <question type="cloze">
+    <name>
+      <text>3x^2-6x-9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=3x^2-6x-9 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=-0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=3}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-9}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=-12}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184105  -->
+  <question type="cloze">
+    <name>
+      <text>4x^2+2x-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=4x^2+2x-2 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-2}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.25}&nbsp;\( ; \) {1:NUMERICAL:=-2.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184141  -->
+  <question type="cloze">
+    <name>
+      <text>4x^2+6x-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=4x^2+6x-4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.75}&nbsp;\( ; \) {1:NUMERICAL:=-6.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184051  -->
+  <question type="cloze">
+    <name>
+      <text>4x^2-4x-8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=4x^2-4x-8 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-8}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.5}&nbsp;\( ; \) {1:NUMERICAL:=-9}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184123  -->
+  <question type="cloze">
+    <name>
+      <text>4x^2-6x-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=4x^2-6x-4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=2}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.75}&nbsp;\( ; \) {1:NUMERICAL:=-6.25}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184087  -->
+  <question type="cloze">
+    <name>
+      <text>8x^2-4x-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=8x^2-4x-4 \)</p><p dir="ltr" style="text-align: left;">Точки пересечения с осью&nbsp;\( Ox \) (в порядке возрастания&nbsp;\( x \) ) :&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=-0.5}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ), ( \)&nbsp;&nbsp;{1:NUMERICAL:=1}&nbsp;\( ; \) {1:NUMERICAL:=0}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Точка пересечения с осью&nbsp;&nbsp;\( Oy \) :&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0}&nbsp;\( ; \) {1:NUMERICAL:=-4}&nbsp;\( ) \)</p><p dir="ltr" style="text-align: left;">Координаты вершины:&nbsp;&nbsp;\( ( \)&nbsp;{1:NUMERICAL:=0.25}&nbsp;\( ; \) {1:NUMERICAL:=-4.5}&nbsp;\( ) \)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

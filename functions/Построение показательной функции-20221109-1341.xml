@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184234  -->
+  <question type="cloze">
+    <name>
+      <text>y=-0.5^x+1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-0.5^x+1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184239  -->
+  <question type="cloze">
+    <name>
+      <text>y=-0.5^{x+1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-0.5^{x+1} \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=-0.5} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184244  -->
+  <question type="cloze">
+    <name>
+      <text>y=-0.5^{x+2}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-0.5^{x+2} \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=-0.25} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184164  -->
+  <question type="cloze">
+    <name>
+      <text>y=-e^x+1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-e^x+1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184159  -->
+  <question type="cloze">
+    <name>
+      <text>y=-e^x+2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=-e^x+2 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=1} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%100%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184224  -->
+  <question type="cloze">
+    <name>
+      <text>y=0.5^x+1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=0.5^x+1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184229  -->
+  <question type="cloze">
+    <name>
+      <text>y=0.5^x+2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=0.5^x+2 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=3} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%100%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184214  -->
+  <question type="cloze">
+    <name>
+      <text>y=0.5^{x-1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=0.5^{x-1}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184219  -->
+  <question type="cloze">
+    <name>
+      <text>y=0.5^{x-2}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=0.5^{x-2}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=4} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184254  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{2x+1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{2x+1}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184249  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{2x-1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{2x-1}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0.5} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184209  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{x+1}+1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{x+1}+1&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=3} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184189  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{x-1}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{x-1}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0.5} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184199  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{x-1} +1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{x-1} +1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=1.5} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184204  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{x-1} +2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{x-1} +2 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2.5} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%100%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184194  -->
+  <question type="cloze">
+    <name>
+      <text>y=2^{x-2}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=2^{x-2}&nbsp; \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0.25} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%100%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184169  -->
+  <question type="cloze">
+    <name>
+      <text>y=e^x+1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=e^x+1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%100%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184174  -->
+  <question type="cloze">
+    <name>
+      <text>y=e^x+2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=e^x+2 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=3} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%100%y=2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184184  -->
+  <question type="cloze">
+    <name>
+      <text>y=e^{-x}-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=e^{-x}-1 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%100%y=-1~%0%y=-2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184179  -->
+  <question type="cloze">
+    <name>
+      <text>y=e^{-x}-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Постройте график функции&nbsp;\( y=e^{-x}-2 \)</p><p dir="ltr" style="text-align: left;">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=-1} )</p><p dir="ltr" style="text-align: left;">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%100%y=-2~%0%Отсутствует}&nbsp;</p><p dir="ltr" style="text-align: left;">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>

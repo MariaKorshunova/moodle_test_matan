@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 184294  -->
+  <question type="cloze">
+    <name>
+      <text>y=1+\ln{(x+1)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=1+\ln{(x+1)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=1} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%100%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184299  -->
+  <question type="cloze">
+    <name>
+      <text>y=2+\ln{(x+1)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=2+\ln{(x+1)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Oy \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=2} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%100%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184289  -->
+  <question type="cloze">
+    <name>
+      <text>y=\-ln{(x)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции\( y=-ln{(x)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=1} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%100%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184304  -->
+  <question type="cloze">
+    <name>
+      <text>y=\-ln{(x-1)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции\( y=-ln{(x-1)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=2} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%100%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184284  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(0.5x)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(0.5x)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=2} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%100%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184279  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(2x)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(2x)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=0.5} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%100%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184259  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(x+1)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(x+1)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=0} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%100%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184264  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(x+2)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(x+2)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=-1} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%0%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=-1~%100%x=-2~%0%y=0~%0%y=-1~%0%y=-2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184269  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(x-1)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(x+1)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=2} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%100%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 184274  -->
+  <question type="cloze">
+    <name>
+      <text>y=\ln{(x-2)}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Постройте график функции&nbsp;\( y=\ln{(x-2)} \)</p><p dir="ltr">Координаты точки пересечения графика с осью&nbsp;\( Ox \) (&nbsp;{1:NUMERICAL:=3} ; {1:NUMERICAL:=0} )</p><p dir="ltr">Горизонтальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%0%x=2~%0%y=0~%0%y=1~%0%y=2~%100%Отсутствует}&nbsp;</p><p dir="ltr">Вертикальной асимптотой функции является&nbsp;{1:MULTICHOICE:%0%x=0~%0%x=1~%100%x=2~%0%y=0~%0%y=1~%0%y=2~%0%Отсутствует}&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>
