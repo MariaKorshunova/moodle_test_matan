@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 188273  -->
+  <question type="cloze">
+    <name>
+      <text><![CDATA[f(x) = \begin{cases} e^x+1 & \quad \text{if} \quad x \leq 0\\ a+x & \quad \text{if} \quad x > 0 \end{cases}]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">При каком выборе числа&nbsp;\( a \) функция будет непрерывной? Определив&nbsp;&nbsp;\( a \) , нарисуйте эскиз графика функции.</p><p dir="ltr" style="text-align: left;">\( f(x) = \begin{cases} e^x+1 &amp; \quad \text{if} \quad x \leq 0\\ a+x &amp; \quad \text{if} \quad x &gt; 0 \end{cases}  \)<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 0-0} f(x) =  \)&nbsp;{1:NUMERICAL:=2}&nbsp;<br></p><p dir="ltr" style="text-align: left;">&nbsp;\( a = \)&nbsp;{1:NUMERICAL:=2}&nbsp;<br></p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188254  -->
+  <question type="cloze">
+    <name>
+      <text><![CDATA[f(x) = \begin{cases} x & \quad \text{if} \quad |x| \leq 1\\ 1 & \quad \text{if} \quad |x| > 1 \end{cases}]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Исследуйте функцию на непрерывность, определите характер точек разрыва (если они существуют).</p><p dir="ltr" style="text-align: left;">Постройте график функции.</p><p dir="ltr" style="text-align: left;">\( f(x) =
+  \begin{cases}
+    x       &amp; \quad \text{if} \quad |x| \leq 1\\
+    1  &amp; \quad \text{if} \quad |x| &gt; 1
+  \end{cases} \)</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to -1-0} f(x) =  \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to -1+0} f(x) = \)&nbsp;{1:NUMERICAL:=-1}&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 1-0} f(x) = \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 1+0} f(x) = \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></p><p dir="ltr" style="text-align: left;">Функция терпит <span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">{1:MULTICHOICE:%100%разрыв I рода, скачок функции~%0%разрыв I рода, точка устранимого разрыва ~%0%разрыв второго рода} при&nbsp;\( x= \)&nbsp;{1:NUMERICAL:=-1}&nbsp;</span></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188262  -->
+  <question type="cloze">
+    <name>
+      <text>f(x)=1-e^{-\frac{1}{x^2}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><span id="docs-internal-guid-070433b9-7fff-a10c-0645-2d71ee5a2dff">Функция&nbsp;\( f(x) \) &nbsp;теряет смысл при \( x=0 \). Определите число&nbsp;\( f(0) \)&nbsp; так, чтобы&nbsp;\( f(x) \)&nbsp; была непрерывной&nbsp; при \( x=0 \).</span><p dir="ltr" style="text-align: left;"></p><p dir="ltr" style="text-align: left;">\( f(x)=1-e^{-\frac{1}{x^2}} \)<br></p><p dir="ltr" style="text-align: left;">Указание: вам необходимо определить функцию как кусочно-заданную:</p><p dir="ltr" style="text-align: left;">\( f(x) =
+  \begin{cases}
+    1-e^{-\frac{1}{x^2}}       &amp; \quad \text{if} \quad x \ne 0\\
+    ?  &amp; \quad \text{if} \quad x = 0
+  \end{cases} \)<br></p><p dir="ltr" style="text-align: left;">Этапы решения задачи:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 0-0} f(x) =  \)&nbsp;{1:NUMERICAL:=1}&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 0+0} f(x) = \)&nbsp;{1:NUMERICAL:=1}</p><p dir="ltr" style="text-align: left;">Ответ:&nbsp; &nbsp;\( f(0) \) = {1:NUMERICAL:=1}</p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188270  -->
+  <question type="cloze">
+    <name>
+      <text>f(x)=\frac{1}{1-e^{\frac{x}{1-x}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Исследуйте функцию на непрерывность, определите характер точек разрыва (если они существуют).</p><p dir="ltr" style="text-align: left;">\( f(x)=\frac{1}{1-e^{\frac{x}{1-x}}} \)<br></p><p dir="ltr" style="text-align: left;">Функция терпит разрыв I рода (скачок функции)&nbsp;&nbsp;<span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">при&nbsp;\( x= \)&nbsp;{1:NUMERICAL:=1}&nbsp;</span></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">Функция терпит разрыв II рода (скачок функции)&nbsp;&nbsp;<span>при&nbsp;\( x= \)&nbsp;{1:NUMERICAL:=0}&nbsp;</span><br></span></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188266  -->
+  <question type="cloze">
+    <name>
+      <text>f(x)=\sin{x}\sin{\frac{1}{x}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><span id="docs-internal-guid-070433b9-7fff-a10c-0645-2d71ee5a2dff">Функция&nbsp;\( f(x) \) &nbsp;теряет смысл при \( x=0 \). Определите число&nbsp;\( f(0) \)&nbsp; так, чтобы&nbsp;\( f(x) \)&nbsp; была непрерывной&nbsp; при \( x=0 \).</span><p dir="ltr" style="text-align: left;"></p><p dir="ltr" style="text-align: left;">\( f(x)=\sin{x}\sin{\frac{1}{x}} \)<br></p><p dir="ltr" style="text-align: left;">Указание: вам необходимо определить функцию как кусочно-заданную:</p><p dir="ltr" style="text-align: left;">\( f(x) =
+  \begin{cases}
+    f(x)&nbsp; &amp; \quad \text{if} \quad x \ne 0\\
+    ?  &amp; \quad \text{if} \quad x = 0
+  \end{cases} \)<br></p><p dir="ltr" style="text-align: left;">Этапы решения задачи:</p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 0-0} f(x) =  \)&nbsp;{1:NUMERICAL:=0}&nbsp;<br></p><p dir="ltr" style="text-align: left;">\( \lim\limits_{x \to 0+0} f(x) = \)&nbsp;{1:NUMERICAL:=0}</p><p dir="ltr" style="text-align: left;">Ответ:&nbsp; &nbsp;\( f(0) \) = {1:NUMERICAL:=0}</p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188279  -->
+  <question type="cloze">
+    <name>
+      <text>\( f(x)=sgn(x) \) и \( g(x) = x(1-x^2) \)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Исследуйте на непрерывность функцию&nbsp;\( f(g(x)) \) и&nbsp;\( g(f(x)) \).</p><p dir="ltr" style="text-align: left;">Определите характер точек разрыва, если они существуют. Постройте эскизы графиков.</p><p dir="ltr" style="text-align: left;">\( f(x)=sgn(x) \) и&nbsp;\( g(x) = x(1-x^2) \)<br></p><p dir="ltr" style="text-align: left;">Функция \( f(g(x)) \)&nbsp;<span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">&nbsp;</span><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">{1:MULTICHOICE:%0%не имеет разрывов ~%100% терпит разрыв I рода, скачок функции~%0% терпит разрыв I рода, точка устранимого разрыва ~%0% терпит разрыв второго рода}&nbsp;</span></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">Функция \( g(f(x)) \)&nbsp;&nbsp;<span>{1:MULTICHOICE:%100%не имеет разрывов ~%0% терпит разрыв I рода, скачок функции~%0% терпит разрыв I рода, точка устранимого разрыва ~%0% терпит разрыв второго рода}&nbsp;</span><br></span></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 188276  -->
+  <question type="cloze">
+    <name>
+      <text>\( f(x)=sgn(x) \) и \( g(x) = x^2+1 \)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Исследуйте на непрерывность функцию&nbsp;\( f(g(x)) \) и&nbsp;\( g(f(x)) \).</p><p dir="ltr" style="text-align: left;">Определите характер точек разрыва, если они существуют. Постройте эскизы графиков.</p><p dir="ltr" style="text-align: left;">\( f(x)=sgn(x) \) и&nbsp;\( g(x) = x^2+1 \)<br></p><p dir="ltr" style="text-align: left;">Функция \( f(g(x)) \)&nbsp;<span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">&nbsp;</span><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">{1:MULTICHOICE:%100%не имеет разрывов ~%0% терпит разрыв I рода, скачок функции~%0% терпит разрыв I рода, точка устранимого разрыва ~%0% терпит разрыв второго рода}&nbsp;</span></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">Функция \( g(f(x)) \)&nbsp;&nbsp;<span>{1:MULTICHOICE:%0%не имеет разрывов ~%0% терпит разрыв I рода, скачок функции~%100% терпит разрыв I рода, точка устранимого разрыва ~%0% терпит разрыв второго рода}&nbsp;</span><br></span></p><p dir="ltr" style="text-align: left;"><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+</quiz>
