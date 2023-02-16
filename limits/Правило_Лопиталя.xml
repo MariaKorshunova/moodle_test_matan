@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 190606  -->
+  <question type="calculated">
+    <name>
+      <text>Правило Лопиталя: \lim\limits_{x \to 0}{\frac{{a}^x-{a}^{\sin{x}}}{x^3}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел:&nbsp;\( \lim\limits_{x \to 0}{\frac{{a}^x-{a}^{\sin{x}}}{x^3}} \)</p><p dir="ltr"></p><p dir="ltr"><em>Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>log({a})/6</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>9</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 190614  -->
+  <question type="calculated">
+    <name>
+      <text>Правило Лопиталя: \lim\limits_{x \to 0}{\frac{{a}^x-{a}^{\sin{x}}}{x^3}} (копия)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Вычислите предел:&nbsp;\(  \lim\limits_{x \to 0+}{x^{a}\ln{x}}  \)</p><p dir="ltr"></p><p dir="ltr"><em>Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>0 * {a}</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>10</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>8</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>9</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>2</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>6</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>9</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 190601  -->
+  <question type="cloze">
+    <name>
+      <text><![CDATA[Теорема Лагранжа: f(x) = \left\{ \begin{array}\\ \frac{3-x^2}{2} & \mbox{if } \ 0 \leq x \leq 1 \\ \frac{1}{x} & \mbox{if } 1 < x< + \infty \end{array} \right. \)]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Пусть</p><p dir="ltr">\( f(x) = \left\{ \begin{array}\\ \frac{3-x^2}{2} &amp; \mbox{if } \ 0 \leq x \leq 1 \\ \frac{1}{x} &amp; \mbox{if } 1 &lt; x&lt; + \infty \end{array} \right. \)<br></p><p dir="ltr">Определите промежуточное значение&nbsp;\( с \) формулы конечных приращений для функции&nbsp;f(x) &nbsp;на сегменте&nbsp;\( [0;2] \)</p><p dir="ltr">\( с_1 = \)&nbsp;{1:NUMERICAL:=0.5:0.01}<br></p><p dir="ltr">\( с_2 = \)&nbsp;{1:NUMERICAL:=1.41:0.01}<br></p><p dir="ltr"></p><p dir="ltr"><em>Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em><br></p><p dir="ltr"><em>Порядок ввода ответов:&nbsp;\( с_1 &lt; c_2 \)&nbsp;</em></p><br><p dir="ltr" style="text-align: left;"><em></em></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 190595  -->
+  <question type="cloze">
+    <name>
+      <text>Теорема Ролля: f(x)=(x-1)(x-2)(x-3)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Проверьте справедливость теоремы Ролля для функции&nbsp;\( f(x)=(x-1)(x-2)(x-3) \)</p><p dir="ltr" style="text-align: left;">На отрезке&nbsp;\( [1;2] \) нашлась такая точка \( с_1= \)&nbsp;&nbsp;{1:NUMERICAL:=1.42:0.01} , что &nbsp;\( f'(c_1)=0 \) .</p><p dir="ltr" style="text-align: left;">На отрезке&nbsp;\( [2;3] \) нашлась такая точка \( с_2= \)&nbsp;&nbsp;{1:NUMERICAL:=2.58:0.01} , что &nbsp;\( f'(c_2)=0 \) .<br></p><p dir="ltr" style="text-align: left;"><em>Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 190605  -->
+  <question type="numerical">
+    <name>
+      <text>Правило Лопиталя:  \lim\limits_{x \to 0}{\frac{1- \cos{x^2}}{x^2 \sin{x^2}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел:&nbsp;\( \lim\limits_{x \to 0}{\frac{1- \cos{x^2}}{x^2 \sin{x^2}}} \)</p><p dir="ltr" style="text-align: left;"></p><p dir="ltr"><em style="font-size: calc(0.90375rem + 0.045vw);">Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 190611  -->
+  <question type="numerical">
+    <name>
+      <text>Правило Лопиталя:  \lim\limits_{x \to 0}{\frac{e^{-\frac{1}{x^2}}}{x^{100}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел:&nbsp;\( \lim\limits_{x \to 0}{\frac{e^{-\frac{1}{x^2}}}{x^{100}}} \)</p><p dir="ltr" style="text-align: left;"></p><p dir="ltr"><em style="font-size: calc(0.90375rem + 0.045vw);">Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 190613  -->
+  <question type="numerical">
+    <name>
+      <text>Правило Лопиталя: \lim\limits_{x \to + \infty}{\frac{x^n}{e^{ax}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел:&nbsp;\( \lim\limits_{x \to + \infty}{\frac{x^n}{e^{ax}}} \)</p><p dir="ltr" style="text-align: left;"></p><p dir="ltr"><em style="font-size: calc(0.90375rem + 0.045vw);">Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 190609  -->
+  <question type="numerical">
+    <name>
+      <text>Правило Лопиталя:\lim\limits_{x \to 1}{\frac{x^x-x}{\ln{x}-x+1}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Вычислите предел:&nbsp;\( \lim\limits_{x \to 1}{\frac{x^x-x}{\ln{x}-x+1}} \)</p><p dir="ltr" style="text-align: left;"></p><p dir="ltr"><em style="font-size: calc(0.90375rem + 0.045vw);">Ответы необходимо вводить в виде десятичной дроби, при необходимости округляя до 2 знаков после запятой.&nbsp;</em><br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 189018  -->
+  <question type="calculated">
+    <name>
+      <text>Непрерывные проценты: удвоение суммы</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Пусть вы решили вложить в банк&nbsp; \( P_0 \) рублей под {r} процентов годовых&nbsp;и на эту сумму
+начисляется проценты непрерывно. Сколько необходимо времени, чтобы
+первоначальная сумма удвоилась?<br></p><p dir="ltr" style="text-align: left;">Ответ запишите в годах (то есть округлите до целого по обычным правилам).</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>log(2)/({r}/100)</text>
+    <tolerance>1</tolerance>
+    <tolerancetype>1</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>0</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>private</text>
+</status>
+    <name><text>r</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>10</text>
+</minimum>
+    <maximum><text>20</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>11</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>11</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>11</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>15</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>18</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>12</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>17</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>17</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>19</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>16</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>18</value>
+        </dataset_item>
+        <dataset_item>
+           <number>11</number>
+           <value>17</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>11</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+</quiz>

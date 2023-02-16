@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 189023  -->
+  <question type="calculated">
+    <name>
+      <text>y=x \sqrt[3]{\frac{x^2}{x^2+1}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr"><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">\( y=x \sqrt[3]{\frac{x^2}{x^2+1}} \)<br></span></p><p dir="ltr"><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;">в точке&nbsp;\( x={b} \)</span><br></p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>((3*{b}*{b}+5)/(3*({b}*{b}+1)))*pow({b}*{b}/({b}*{b}+1), 1/3)</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>b</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>-1</text>
+</minimum>
+    <maximum><text>1</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>12</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>1</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>1</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>1</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>-1</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>0</value>
+        </dataset_item>
+        <dataset_item>
+           <number>11</number>
+           <value>-1</value>
+        </dataset_item>
+        <dataset_item>
+           <number>12</number>
+           <value>0</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>12</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 189020  -->
+  <question type="calculated">
+    <name>
+      <text>y=\frac{1}{4}\ln \frac{1+x}{1-x}+\frac{1}{2}arctg \: x</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">&nbsp;\( y=\frac{1}{4}\ln \frac{1+x}{1-x}+\frac{1}{2}arctg \: x \)&nbsp;</p><p dir="ltr">в точке&nbsp;\( x={a} \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>1/(1-pow({a}, 4))</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>5</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 189026  -->
+  <question type="calculated">
+    <name>
+      <text>y=\log_{x^{a}}{x}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">\( y=\log_{x^{a}}{x} \)<br></p><p dir="ltr">в точке&nbsp;\( x=10 \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}*0</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>5</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 189021  -->
+  <question type="calculated">
+    <name>
+      <text>y={a}^{x\: tg \,x}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">\( y={a}^{x\: tg \,x} \)<br></p><p dir="ltr">в точке&nbsp;\( x=0 \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <synchronize>0</synchronize>
+    <single>0</single>
+    <answernumbering>abc</answernumbering>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+<answer fraction="100">
+    <text>{a}*0</text>
+    <tolerance>0.01</tolerance>
+    <tolerancetype>2</tolerancetype>
+    <correctanswerformat>1</correctanswerformat>
+    <correctanswerlength>2</correctanswerlength>
+    <feedback format="html">
+<text></text>
+    </feedback>
+</answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+<dataset_definitions>
+<dataset_definition>
+    <status><text>shared</text>
+</status>
+    <name><text>a</text>
+</name>
+    <type>calculated</type>
+    <distribution><text>uniform</text>
+</distribution>
+    <minimum><text>2</text>
+</minimum>
+    <maximum><text>5</text>
+</maximum>
+    <decimals><text>0</text>
+</decimals>
+    <itemcount>10</itemcount>
+    <dataset_items>
+        <dataset_item>
+           <number>1</number>
+           <value>5</value>
+        </dataset_item>
+        <dataset_item>
+           <number>2</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>3</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>4</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>5</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>6</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>7</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>8</number>
+           <value>3</value>
+        </dataset_item>
+        <dataset_item>
+           <number>9</number>
+           <value>4</value>
+        </dataset_item>
+        <dataset_item>
+           <number>10</number>
+           <value>4</value>
+        </dataset_item>
+    </dataset_items>
+    <number_of_items>10</number_of_items>
+</dataset_definition>
+</dataset_definitions>
+  </question>
+
+<!-- question: 189028  -->
+  <question type="multichoice">
+    <name>
+      <text>x\sin{y}+y\sin{x}=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную&nbsp;\( y'_x \) функции</p><p dir="ltr">\( x\sin{y}+y\sin{x}=0 \)<br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( -\frac{y\cos{x}+sin{y}}{x\cos{y}+sin{x}} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{y\cos{x}+sin{y}}{x\cos{y}+sin{x}} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( -\frac{x\cos{y}+sin{x}}{y\cos{x}+sin{y}} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{x\cos{y}+sin{x}}{y\cos{x}+sin{y}} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 189027  -->
+  <question type="multichoice">
+    <name>
+      <text>x^3y^3+5xy+4=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную&nbsp;\( y'_x \) функции</p><p dir="ltr">\( x^3y^3+5xy+4=0 \)</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( -\frac{3x^2y^3+5y}{3x^3y^2+5x} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{3x^2y^3+5y}{3x^3y^2+5x} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( -\frac{3x^3y^2+5y}{3x^2y^3+5x} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{3x^3y^2+5y}{3x^2y^3+5x} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 189029  -->
+  <question type="multichoice">
+    <name>
+      <text>x^y-y^x=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную&nbsp;\( y'_x \) функции</p><p dir="ltr">\( x^y-y^x=0 \)<br></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{y(y-x\ln{y})}{x(x-y\ln{x})} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( -\frac{y(y-x\ln{y})}{x(x-y\ln{x})} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">\( \frac{x(x-y\ln{x})}{y(y-x\ln{y})} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">-\( \frac{x(x-y\ln{x})}{y(y-x\ln{y})} \)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 189022  -->
+  <question type="numerical">
+    <name>
+      <text>y=(\cos x)^{\sin x}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">\( y=(\cos x)^{\sin x} \)<br></p><p dir="ltr">в точке&nbsp;\( x=0 \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 189025  -->
+  <question type="numerical">
+    <name>
+      <text>y=\ln\frac{\sqrt[4]{x^2+3x+1}}{\sqrt[3]{x^2+4}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">\( y=\ln\frac{\sqrt[4]{x^2+3x+1}}{\sqrt[3]{x^2+4}} \)<br></p><p dir="ltr">в точке&nbsp;\( x=0 \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.75</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 189024  -->
+  <question type="numerical">
+    <name>
+      <text>y=\sqrt[4]{x^3\sqrt[3]{x^2\sqrt{x}}}</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><p dir="ltr">Найдите производную функции</p><p dir="ltr">\( y=\sqrt[4]{x^3\sqrt[3]{x^2\sqrt{x}}} \)<br></p><p dir="ltr">в точке&nbsp;\( x=1 \)</p><p dir="ltr">Ответ вводите в виде десятичной дроби, при необходимости округлите до двух знаков после запятой.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>0.95833</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.01</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>
